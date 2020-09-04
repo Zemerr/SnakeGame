@@ -1,7 +1,7 @@
 # SnakeGame
 My first Cpp game
 
-Compile files with commands:    <code>cmake . -Bbuild && cmake --build ./build</code>    that will callCMakeand build an app.
+Compile files with commands:    <code>cmake . -Bbuild && cmake --build ./build</code>    that will call CMake and build an app.
 
 
 # Screenshots:
