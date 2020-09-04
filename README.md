@@ -1,6 +1,8 @@
 # SnakeGame
 My first Cpp game
 
+Compile files with commands:    <code>cmake . -Bbuild && cmake --build ./build</code>    that will callCMakeand build an app.
+
 
 # Screenshots:
 <img width="1201" alt="Screen Shot 2020-09-03 at 11 00 51 PM" src="https://user-images.githubusercontent.com/36114963/92216051-70a00480-ee9e-11ea-89bf-cdb9516cb219.png">
